@@ -1,0 +1,14 @@
+E:\bridgelabz\.net\Assignments\OopsConcept\OopsConcept\bin\Debug\netcoreapp3.1\OopsConcept.exe
+E:\bridgelabz\.net\Assignments\OopsConcept\OopsConcept\bin\Debug\netcoreapp3.1\OopsConcept.deps.json
+E:\bridgelabz\.net\Assignments\OopsConcept\OopsConcept\bin\Debug\netcoreapp3.1\OopsConcept.runtimeconfig.json
+E:\bridgelabz\.net\Assignments\OopsConcept\OopsConcept\bin\Debug\netcoreapp3.1\OopsConcept.runtimeconfig.dev.json
+E:\bridgelabz\.net\Assignments\OopsConcept\OopsConcept\bin\Debug\netcoreapp3.1\OopsConcept.dll
+E:\bridgelabz\.net\Assignments\OopsConcept\OopsConcept\bin\Debug\netcoreapp3.1\OopsConcept.pdb
+E:\bridgelabz\.net\Assignments\OopsConcept\OopsConcept\obj\Debug\netcoreapp3.1\OopsConcept.csproj.AssemblyReference.cache
+E:\bridgelabz\.net\Assignments\OopsConcept\OopsConcept\obj\Debug\netcoreapp3.1\OopsConcept.GeneratedMSBuildEditorConfig.editorconfig
+E:\bridgelabz\.net\Assignments\OopsConcept\OopsConcept\obj\Debug\netcoreapp3.1\OopsConcept.AssemblyInfoInputs.cache
+E:\bridgelabz\.net\Assignments\OopsConcept\OopsConcept\obj\Debug\netcoreapp3.1\OopsConcept.AssemblyInfo.cs
+E:\bridgelabz\.net\Assignments\OopsConcept\OopsConcept\obj\Debug\netcoreapp3.1\OopsConcept.csproj.CoreCompileInputs.cache
+E:\bridgelabz\.net\Assignments\OopsConcept\OopsConcept\obj\Debug\netcoreapp3.1\OopsConcept.dll
+E:\bridgelabz\.net\Assignments\OopsConcept\OopsConcept\obj\Debug\netcoreapp3.1\OopsConcept.pdb
+E:\bridgelabz\.net\Assignments\OopsConcept\OopsConcept\obj\Debug\netcoreapp3.1\OopsConcept.genruntimeconfig.cache
